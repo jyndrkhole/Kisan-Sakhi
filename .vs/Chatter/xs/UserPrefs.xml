@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{1B857EA0-BA13-412F-A426-C73A5D03E5FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chatter/ViewModels/ItemsViewModel.cs">
+    <Files>
+      <File FileName="iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" Line="32" Column="38" />
+      <File FileName="Chatter/Services/MockDataStore.cs" Line="24" Column="14" />
+      <File FileName="Chatter/ViewModels/ItemsViewModel.cs" Line="16" Column="28" />
+      <File FileName="iOS/AppDelegate.cs" />
+      <File FileName="iOS/Database/ChatterDatabase.cs" Line="41" Column="18" />
+      <File FileName="iOS/ViewControllers/ItemNewViewController.cs" Line="32" Column="1" />
+      <File FileName="iOS/ViewControllers/AboutViewController.cs" Line="20" Column="34" />
+      <File FileName="iOS/ViewControllers/BrowseViewController.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewControllers/TabBarController.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/Utilities/ActionController.cs" Line="9" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chatter" expanded="True">
+            <Node name="Chatter" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ItemsViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Chatter.iOS" expanded="True">
+              <Node name="Database" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="ViewControllers" expanded="True">
+                <Node name="DetailViewControllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.Chatter.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19EE365E-DFEA-4515-A722-3324BBBA8C79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/jayendrakhole/Downloads/Chatter 2/iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" relfile="iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" line="425" column="1" />
+      <Breakpoint enabled="false" file="/Users/jayendrakhole/Downloads/Chatter 2/iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" relfile="iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" line="453" column="1" />
+      <Breakpoint enabled="false" file="/Users/jayendrakhole/Downloads/Chatter 2/iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" relfile="iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" line="449" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

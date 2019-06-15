@@ -1,0 +1,78 @@
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.pdb
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/JSQMessagesViewController.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/M2Mqtt.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/nitingupta/Documents/Chatter/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/friend.png
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.csprojResolveAssemblyReference.cache
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.csproj.CoreCompileInputs.cache
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/nitingupta/Documents/Chatter/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.pdb
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.pdb
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/JSQMessagesViewController.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/M2Mqtt.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Remotion.Linq.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Remotion.Linq.xml
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/friend.png
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.csproj.CoreCompileInputs.cache
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/nitingupta/Documents/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.pdb
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Chatter.iOS.pdb
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/JSQMessagesViewController.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/M2Mqtt.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Remotion.Linq.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/bin/iPhoneSimulator/Debug/Remotion.Linq.xml
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/actool/_PartialAppManifest.items
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/coremlc/_PartialAppManifest.items
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/optimized/friend.png
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.2/optimized/
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.csproj.CoreCompileInputs.cache
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.csproj.CopyComplete
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.exe
+/Users/jayendrakhole/Downloads/Chatter 2/iOS/obj/iPhoneSimulator/Debug/Chatter.iOS.pdb
